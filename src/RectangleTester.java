@@ -6,10 +6,11 @@ public class RectangleTester
         Rectangle rect2 = new Rectangle(5, 4);
         Rectangle rect3 = new Rectangle(10, 4);
         
-        // Print all three rectangles
+        // Println all three rectangles
         
-        // Print one true statement comparing rectangles
+        // Print one true statement by comparing 2 Rectangle objects with equals()
         
-        // Print one false statment comparing rectangles
+        // Print one false statement by comparing 2 Rectangle objects with equals()
+        
     }
 }
